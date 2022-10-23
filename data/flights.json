@@ -1,0 +1,2892 @@
+[
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 1232,
+      "delay": null,
+      "scheduled": "2022-10-14T23:45:00+00:00",
+      "estimated": "2022-10-14T23:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohammad Bin Abdulaziz",
+      "timezone": "Asia/Riyadh",
+      "iata": "MED",
+      "icao": "OEMA",
+      "terminal": "1",
+      "gate": 4432,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-15T01:45:00+00:00",
+      "estimated": "2022-10-15T01:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "603",
+      "iata": "IA603",
+      "icao": "IAW603",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 324,
+      "delay": 12,
+      "scheduled": "2022-10-14T16:00:00+00:00",
+      "estimated": "2022-10-14T16:00:00+00:00",
+      "actual": "2022-10-14T16:11:00+00:00",
+      "estimated_runway": "2022-10-14T16:11:00+00:00",
+      "actual_runway": "2022-10-14T16:11:00+00:00"
+    },
+    "arrival": {
+      "airport": "Queen Alia International",
+      "timezone": "Asia/Amman",
+      "iata": "AMM",
+      "icao": "OJAI",
+      "terminal": "MAIN",
+      "gate": "222",
+      "baggage": null,
+      "delay": 3,
+      "scheduled": "2022-10-14T17:30:00+00:00",
+      "estimated": "2022-10-14T17:30:00+00:00",
+      "actual": "2022-10-14T17:28:00+00:00",
+      "estimated_runway": "2022-10-14T17:28:00+00:00",
+      "actual_runway": "2022-10-14T17:28:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "163",
+      "iata": "IA163",
+      "icao": "IAW163",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 2344,
+      "delay": null,
+      "scheduled": "2022-10-14T08:00:00+00:00",
+      "estimated": "2022-10-14T08:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Erbil International (irbil Northwest)",
+      "timezone": "Asia/Baghdad",
+      "iata": "EBL",
+      "icao": "ORER",
+      "terminal": null,
+      "gate": 434,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T09:00:00+00:00",
+      "estimated": "2022-10-14T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "941",
+      "iata": "IA941",
+      "icao": "IAW941",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 2424,
+      "delay": 9,
+      "scheduled": "2022-10-14T17:00:00+00:00",
+      "estimated": "2022-10-14T17:00:00+00:00",
+      "actual": "2022-10-14T17:08:00+00:00",
+      "estimated_runway": "2022-10-14T17:08:00+00:00",
+      "actual_runway": "2022-10-14T17:08:00+00:00"
+    },
+    "arrival": {
+      "airport": "Esenboga International",
+      "timezone": "Europe/Istanbul",
+      "iata": "ESB",
+      "icao": "LTAC",
+      "terminal": "1",
+      "gate": 2324,
+      "baggage": "12",
+      "delay": null,
+      "scheduled": "2022-10-14T19:30:00+00:00",
+      "estimated": "2022-10-14T19:30:00+00:00",
+      "actual": "2022-10-14T19:08:00+00:00",
+      "estimated_runway": "2022-10-14T19:08:00+00:00",
+      "actual_runway": "2022-10-14T19:08:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "201",
+      "iata": "IA201",
+      "icao": "IAW201",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "YI-ASQ",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "728671"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 7676,
+      "delay": null,
+      "scheduled": "2022-10-14T19:05:00+00:00",
+      "estimated": "2022-10-14T19:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Esenboga International",
+      "timezone": "Europe/Istanbul",
+      "iata": "ESB",
+      "icao": "LTAC",
+      "terminal": "1",
+      "gate": 345,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T21:50:00+00:00",
+      "estimated": "2022-10-14T21:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "241",
+      "iata": "IF241",
+      "icao": "FBA241",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 2323,
+      "delay": 4,
+      "scheduled": "2022-10-14T07:30:00+00:00",
+      "estimated": "2022-10-14T07:30:00+00:00",
+      "actual": "2022-10-14T07:33:00+00:00",
+      "estimated_runway": "2022-10-14T07:33:00+00:00",
+      "actual_runway": "2022-10-14T07:33:00+00:00"
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "D",
+      "gate": 124,
+      "baggage": null,
+      "delay": 1,
+      "scheduled": "2022-10-14T10:10:00+00:00",
+      "estimated": "2022-10-14T10:10:00+00:00",
+      "actual": "2022-10-14T10:10:00+00:00",
+      "estimated_runway": "2022-10-14T10:10:00+00:00",
+      "actual_runway": "2022-10-14T10:10:00+00:00"
+    },
+    "airline": {
+      "name": "ULS Airlines Cargo",
+      "iata": "GO",
+      "icao": "KZU"
+    },
+    "flight": {
+      "number": "6445",
+      "iata": "GO6445",
+      "icao": "KZU6445",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 9874,
+      "delay": 32,
+      "scheduled": "2022-10-14T11:00:00+00:00",
+      "estimated": "2022-10-14T11:00:00+00:00",
+      "actual": "2022-10-14T11:31:00+00:00",
+      "estimated_runway": "2022-10-14T11:31:00+00:00",
+      "actual_runway": "2022-10-14T11:31:00+00:00"
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "1",
+      "gate": 234,
+      "baggage": null,
+      "delay": 1,
+      "scheduled": "2022-10-14T14:00:00+00:00",
+      "estimated": "2022-10-14T14:00:00+00:00",
+      "actual": "2022-10-14T14:00:00+00:00",
+      "estimated_runway": "2022-10-14T14:00:00+00:00",
+      "actual_runway": "2022-10-14T14:00:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "223",
+      "iata": "IA223",
+      "icao": "IAW223",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "YI-AQZ",
+      "iata": "B77L",
+      "icao": "B77L",
+      "icao24": "72863A"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 2323,
+      "delay": null,
+      "scheduled": "2022-10-14T17:45:00+00:00",
+      "estimated": "2022-10-14T17:45:00+00:00",
+      "actual": "2022-10-14T17:31:00+00:00",
+      "estimated_runway": "2022-10-14T17:31:00+00:00",
+      "actual_runway": "2022-10-14T17:31:00+00:00"
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "I",
+      "gate": 3234,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T20:45:00+00:00",
+      "estimated": "2022-10-14T20:45:00+00:00",
+      "actual": "2022-10-14T20:14:00+00:00",
+      "estimated_runway": "2022-10-14T20:14:00+00:00",
+      "actual_runway": "2022-10-14T20:14:00+00:00"
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "221",
+      "iata": "IF221",
+      "icao": "FBA221",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": 3242,
+      "delay": 23,
+      "scheduled": "2022-10-14T01:35:00+00:00",
+      "estimated": "2022-10-14T01:35:00+00:00",
+      "actual": "2022-10-14T01:58:00+00:00",
+      "estimated_runway": "2022-10-14T01:58:00+00:00",
+      "actual_runway": "2022-10-14T01:58:00+00:00"
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "2A",
+      "gate": 7345,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T04:45:00+00:00",
+      "estimated": "2022-10-14T04:45:00+00:00",
+      "actual": "2022-10-14T04:37:00+00:00",
+      "estimated_runway": "2022-10-14T04:37:00+00:00",
+      "actual_runway": "2022-10-14T04:37:00+00:00"
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "303",
+      "iata": "TK303",
+      "icao": "THY303",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T06:00:00+00:00",
+      "estimated": "2022-10-14T06:00:00+00:00",
+      "actual": "2022-10-14T06:00:00+00:00",
+      "estimated_runway": "2022-10-14T06:00:00+00:00",
+      "actual_runway": "2022-10-14T06:00:00+00:00"
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "D",
+      "gate": "E",
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T09:05:00+00:00",
+      "estimated": "2022-10-14T09:05:00+00:00",
+      "actual": "2022-10-14T08:40:00+00:00",
+      "estimated_runway": "2022-10-14T08:40:00+00:00",
+      "actual_runway": "2022-10-14T08:40:00+00:00"
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "803",
+      "iata": "TK803",
+      "icao": "THY803",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 26,
+      "scheduled": "2022-10-14T07:15:00+00:00",
+      "estimated": "2022-10-14T07:15:00+00:00",
+      "actual": "2022-10-14T07:41:00+00:00",
+      "estimated_runway": "2022-10-14T07:41:00+00:00",
+      "actual_runway": "2022-10-14T07:41:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sulaimaniyah International",
+      "timezone": "Asia/Baghdad",
+      "iata": "ISU",
+      "icao": "ORSU",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": 13,
+      "scheduled": "2022-10-14T08:00:00+00:00",
+      "estimated": "2022-10-14T08:00:00+00:00",
+      "actual": "2022-10-14T08:12:00+00:00",
+      "estimated_runway": "2022-10-14T08:12:00+00:00",
+      "actual_runway": "2022-10-14T08:12:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "961",
+      "iata": "IA961",
+      "icao": "IAW961",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "unknown",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T00:30:00+00:00",
+      "estimated": "2022-10-14T00:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Quaid-e-azam International",
+      "timezone": "Asia/Karachi",
+      "iata": "KHI",
+      "icao": "OPKC",
+      "terminal": "M",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T06:10:00+00:00",
+      "estimated": "2022-10-14T06:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "331",
+      "iata": "IF331",
+      "icao": "FBA331",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T23:30:00+00:00",
+      "estimated": "2022-10-14T23:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohammad Bin Abdulaziz",
+      "timezone": "Asia/Riyadh",
+      "iata": "MED",
+      "icao": "OEMA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-15T01:30:00+00:00",
+      "estimated": "2022-10-15T01:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "601",
+      "iata": "IA601",
+      "icao": "IAW601",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 7,
+      "scheduled": "2022-10-14T18:00:00+00:00",
+      "estimated": "2022-10-14T18:00:00+00:00",
+      "actual": "2022-10-14T18:06:00+00:00",
+      "estimated_runway": "2022-10-14T18:06:00+00:00",
+      "actual_runway": "2022-10-14T18:06:00+00:00"
+    },
+    "arrival": {
+      "airport": "Erbil International (irbil Northwest)",
+      "timezone": "Asia/Baghdad",
+      "iata": "EBL",
+      "icao": "ORER",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T19:00:00+00:00",
+      "estimated": "2022-10-14T19:00:00+00:00",
+      "actual": "2022-10-14T18:45:00+00:00",
+      "estimated_runway": "2022-10-14T18:45:00+00:00",
+      "actual_runway": "2022-10-14T18:45:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "907",
+      "iata": "IA907",
+      "icao": "IAW907",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T19:20:00+00:00",
+      "estimated": "2022-10-14T19:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohammad Bin Abdulaziz",
+      "timezone": "Asia/Riyadh",
+      "iata": "MED",
+      "icao": "OEMA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T21:30:00+00:00",
+      "estimated": "2022-10-14T21:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "1113",
+      "iata": "IF1113",
+      "icao": "FBA1113",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T08:30:00+00:00",
+      "estimated": "2022-10-14T08:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mashad",
+      "timezone": "Asia/Tehran",
+      "iata": "MHD",
+      "icao": "OIMM",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T12:00:00+00:00",
+      "estimated": "2022-10-14T12:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Taban Airlines",
+      "iata": null,
+      "icao": "TBN"
+    },
+    "flight": {
+      "number": "7286",
+      "iata": null,
+      "icao": "TBN7286",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T22:30:00+00:00",
+      "estimated": "2022-10-14T22:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mashad",
+      "timezone": "Asia/Tehran",
+      "iata": "MHD",
+      "icao": "OIMM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-15T01:30:00+00:00",
+      "estimated": "2022-10-15T01:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Taban Airlines",
+      "iata": null,
+      "icao": "TBN"
+    },
+    "flight": {
+      "number": "7288",
+      "iata": null,
+      "icao": "TBN7288",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T07:50:00+00:00",
+      "estimated": "2022-10-14T07:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mashad",
+      "timezone": "Asia/Tehran",
+      "iata": "MHD",
+      "icao": "OIMM",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T10:50:00+00:00",
+      "estimated": "2022-10-14T10:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "561",
+      "iata": "IF561",
+      "icao": "FBA561",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T10:30:00+00:00",
+      "estimated": "2022-10-14T10:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mashad",
+      "timezone": "Asia/Tehran",
+      "iata": "MHD",
+      "icao": "OIMM",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T13:00:00+00:00",
+      "estimated": "2022-10-14T13:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Caspian Airlines",
+      "iata": "IV",
+      "icao": "CPN"
+    },
+    "flight": {
+      "number": "7921",
+      "iata": "IV7921",
+      "icao": "CPN7921",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "unknown",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T19:00:00+00:00",
+      "estimated": "2022-10-14T19:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Al-Ashraf International",
+      "timezone": "Asia/Baghdad",
+      "iata": "NJF",
+      "icao": "ORNI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T19:30:00+00:00",
+      "estimated": "2022-10-14T19:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "431",
+      "iata": "IA431",
+      "icao": "IAW431",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 31,
+      "scheduled": "2022-10-14T18:00:00+00:00",
+      "estimated": "2022-10-14T18:00:00+00:00",
+      "actual": "2022-10-14T18:31:00+00:00",
+      "estimated_runway": "2022-10-14T18:31:00+00:00",
+      "actual_runway": "2022-10-14T18:31:00+00:00"
+    },
+    "arrival": {
+      "airport": "Al-Ashraf International",
+      "timezone": "Asia/Baghdad",
+      "iata": "NJF",
+      "icao": "ORNI",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": 22,
+      "scheduled": "2022-10-14T18:30:00+00:00",
+      "estimated": "2022-10-14T18:30:00+00:00",
+      "actual": "2022-10-14T18:52:00+00:00",
+      "estimated_runway": "2022-10-14T18:52:00+00:00",
+      "actual_runway": "2022-10-14T18:52:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "441",
+      "iata": "IA441",
+      "icao": "IAW441",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T01:25:00+00:00",
+      "estimated": "2022-10-14T01:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Al-Ashraf International",
+      "timezone": "Asia/Baghdad",
+      "iata": "NJF",
+      "icao": "ORNI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T02:05:00+00:00",
+      "estimated": "2022-10-14T02:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "3",
+      "iata": "IF3",
+      "icao": "FBA3",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 4,
+      "scheduled": "2022-10-14T10:30:00+00:00",
+      "estimated": "2022-10-14T10:30:00+00:00",
+      "actual": "2022-10-14T10:34:00+00:00",
+      "estimated_runway": "2022-10-14T10:34:00+00:00",
+      "actual_runway": "2022-10-14T10:34:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T13:30:00+00:00",
+      "estimated": "2022-10-14T13:30:00+00:00",
+      "actual": "2022-10-14T13:05:00+00:00",
+      "estimated_runway": "2022-10-14T13:05:00+00:00",
+      "actual_runway": "2022-10-14T13:05:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "307",
+      "iata": "IA307",
+      "icao": "IAW307",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T10:00:00+00:00",
+      "estimated": "2022-10-14T10:00:00+00:00",
+      "actual": "2022-10-14T09:41:00+00:00",
+      "estimated_runway": "2022-10-14T09:41:00+00:00",
+      "actual_runway": "2022-10-14T09:41:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T13:00:00+00:00",
+      "estimated": "2022-10-14T13:00:00+00:00",
+      "actual": "2022-10-14T12:14:00+00:00",
+      "estimated_runway": "2022-10-14T12:14:00+00:00",
+      "actual_runway": "2022-10-14T12:14:00+00:00"
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "201",
+      "iata": "IF201",
+      "icao": "FBA201",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "YI-BAX",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "728838"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 20,
+      "scheduled": "2022-10-14T03:20:00+00:00",
+      "estimated": "2022-10-14T03:20:00+00:00",
+      "actual": "2022-10-14T03:40:00+00:00",
+      "estimated_runway": "2022-10-14T03:40:00+00:00",
+      "actual_runway": "2022-10-14T03:40:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T06:20:00+00:00",
+      "estimated": "2022-10-14T06:20:00+00:00",
+      "actual": "2022-10-14T06:11:00+00:00",
+      "estimated_runway": "2022-10-14T06:11:00+00:00",
+      "actual_runway": "2022-10-14T06:11:00+00:00"
+    },
+    "airline": {
+      "name": "Pegasus",
+      "iata": "PC",
+      "icao": "PGT"
+    },
+    "flight": {
+      "number": "657",
+      "iata": "PC657",
+      "icao": "PGT657",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T04:30:00+00:00",
+      "estimated": "2022-10-14T04:30:00+00:00",
+      "actual": "2022-10-14T04:12:00+00:00",
+      "estimated_runway": "2022-10-14T04:12:00+00:00",
+      "actual_runway": "2022-10-14T04:12:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sabiha Gokcen",
+      "timezone": "Europe/Istanbul",
+      "iata": "SAW",
+      "icao": "LTFJ",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T07:40:00+00:00",
+      "estimated": "2022-10-14T07:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "7693",
+      "iata": "TK7693",
+      "icao": "THY7693",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "TC-JFD",
+      "iata": "B738",
+      "icao": "B738",
+      "icao24": "4BA8C4"
+    },
+    "live": {
+      "updated": "2022-10-14T01:46:43+00:00",
+      "latitude": 36.72,
+      "longitude": 43.48,
+      "altitude": 10980.4,
+      "direction": 342,
+      "speed_horizontal": 781.544,
+      "speed_vertical": 0,
+      "is_ground": false
+    }
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 44,
+      "scheduled": "2022-10-14T11:55:00+00:00",
+      "estimated": "2022-10-14T11:55:00+00:00",
+      "actual": "2022-10-14T12:39:00+00:00",
+      "estimated_runway": "2022-10-14T12:39:00+00:00",
+      "actual_runway": "2022-10-14T12:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Sharjah",
+      "timezone": "Asia/Dubai",
+      "iata": "SHJ",
+      "icao": "OMSJ",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "4",
+      "delay": 10,
+      "scheduled": "2022-10-14T15:25:00+00:00",
+      "estimated": "2022-10-14T15:25:00+00:00",
+      "actual": "2022-10-14T15:35:00+00:00",
+      "estimated_runway": "2022-10-14T15:35:00+00:00",
+      "actual_runway": "2022-10-14T15:35:00+00:00"
+    },
+    "airline": {
+      "name": "Air Arabia",
+      "iata": "G9",
+      "icao": "ABY"
+    },
+    "flight": {
+      "number": "369",
+      "iata": "G9369",
+      "icao": "ABY369",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "A6-ANO",
+      "iata": "A320",
+      "icao": "A320",
+      "icao24": "896366"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T10:30:00+00:00",
+      "estimated": "2022-10-14T10:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Carsamba",
+      "timezone": "Europe/Istanbul",
+      "iata": "SZF",
+      "icao": "LTFH",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T12:30:00+00:00",
+      "estimated": "2022-10-14T12:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "UR Airlines",
+      "iata": "UD",
+      "icao": "UBD"
+    },
+    "flight": {
+      "number": "143",
+      "iata": "UD143",
+      "icao": "UBD143",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T17:00:00+00:00",
+      "estimated": "2022-10-14T17:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Damascus International Airport",
+      "timezone": "Asia/Damascus",
+      "iata": "DAM",
+      "icao": "OSDI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T17:30:00+00:00",
+      "estimated": "2022-10-14T17:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "UR Airlines",
+      "iata": "UD",
+      "icao": "UBD"
+    },
+    "flight": {
+      "number": "141",
+      "iata": "UD141",
+      "icao": "UBD141",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T07:50:00+00:00",
+      "estimated": "2022-10-14T07:50:00+00:00",
+      "actual": "2022-10-14T07:27:00+00:00",
+      "estimated_runway": "2022-10-14T07:27:00+00:00",
+      "actual_runway": "2022-10-14T07:27:00+00:00"
+    },
+    "arrival": {
+      "airport": "Queen Alia International",
+      "timezone": "Asia/Amman",
+      "iata": "AMM",
+      "icao": "OJAI",
+      "terminal": "3",
+      "gate": "126",
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T09:30:00+00:00",
+      "estimated": "2022-10-14T09:30:00+00:00",
+      "actual": "2022-10-14T08:43:00+00:00",
+      "estimated_runway": "2022-10-14T08:43:00+00:00",
+      "actual_runway": "2022-10-14T08:43:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Jordanian",
+      "iata": "RJ",
+      "icao": "RJA"
+    },
+    "flight": {
+      "number": "811",
+      "iata": "RJ811",
+      "icao": "RJA811",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T20:30:00+00:00",
+      "estimated": "2022-10-14T20:30:00+00:00",
+      "actual": "2022-10-14T20:20:00+00:00",
+      "estimated_runway": "2022-10-14T20:20:00+00:00",
+      "actual_runway": "2022-10-14T20:20:00+00:00"
+    },
+    "arrival": {
+      "airport": "Queen Alia International",
+      "timezone": "Asia/Amman",
+      "iata": "AMM",
+      "icao": "OJAI",
+      "terminal": "MAIN",
+      "gate": "220",
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T22:10:00+00:00",
+      "estimated": "2022-10-14T22:10:00+00:00",
+      "actual": "2022-10-14T21:39:00+00:00",
+      "estimated_runway": "2022-10-14T21:39:00+00:00",
+      "actual_runway": "2022-10-14T21:39:00+00:00"
+    },
+    "airline": {
+      "name": "Royal Jordanian",
+      "iata": "RJ",
+      "icao": "RJA"
+    },
+    "flight": {
+      "number": "815",
+      "iata": "RJ815",
+      "icao": "RJA815",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "JY-EMA",
+      "iata": "E195",
+      "icao": "E195",
+      "icao24": "7415A1"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2022-10-14T17:20:00+00:00",
+      "estimated": "2022-10-14T17:20:00+00:00",
+      "actual": "2022-10-14T17:34:00+00:00",
+      "estimated_runway": "2022-10-14T17:34:00+00:00",
+      "actual_runway": "2022-10-14T17:34:00+00:00"
+    },
+    "arrival": {
+      "airport": "Antalya",
+      "timezone": "Europe/Istanbul",
+      "iata": "AYT",
+      "icao": "LTAI",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T20:00:00+00:00",
+      "estimated": "2022-10-14T20:00:00+00:00",
+      "actual": "2022-10-14T19:54:00+00:00",
+      "estimated_runway": "2022-10-14T19:54:00+00:00",
+      "actual_runway": "2022-10-14T19:54:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "209",
+      "iata": "IA209",
+      "icao": "IAW209",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "YI-AGR",
+      "iata": "A321",
+      "icao": "A321",
+      "icao24": "7284F2"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 12,
+      "scheduled": "2022-10-14T10:00:00+00:00",
+      "estimated": "2022-10-14T10:00:00+00:00",
+      "actual": "2022-10-14T10:11:00+00:00",
+      "estimated_runway": "2022-10-14T10:11:00+00:00",
+      "actual_runway": "2022-10-14T10:11:00+00:00"
+    },
+    "arrival": {
+      "airport": "Beirut Rafic Hariri Airport",
+      "timezone": "Asia/Beirut",
+      "iata": "BEY",
+      "icao": "OLBA",
+      "terminal": "MAIN",
+      "gate": null,
+      "baggage": "5",
+      "delay": 2,
+      "scheduled": "2022-10-14T11:30:00+00:00",
+      "estimated": "2022-10-14T11:30:00+00:00",
+      "actual": "2022-10-14T11:28:00+00:00",
+      "estimated_runway": "2022-10-14T11:28:00+00:00",
+      "actual_runway": "2022-10-14T11:28:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "131",
+      "iata": "IA131",
+      "icao": "IAW131",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T19:10:00+00:00",
+      "estimated": "2022-10-14T19:10:00+00:00",
+      "actual": "2022-10-14T19:07:00+00:00",
+      "estimated_runway": "2022-10-14T19:07:00+00:00",
+      "actual_runway": "2022-10-14T19:07:00+00:00"
+    },
+    "arrival": {
+      "airport": "Beirut Rafic Hariri Airport",
+      "timezone": "Asia/Beirut",
+      "iata": "BEY",
+      "icao": "OLBA",
+      "terminal": "MAIN",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T21:05:00+00:00",
+      "estimated": "2022-10-14T21:05:00+00:00",
+      "actual": "2022-10-14T20:31:00+00:00",
+      "estimated_runway": "2022-10-14T20:31:00+00:00",
+      "actual_runway": "2022-10-14T20:31:00+00:00"
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "301",
+      "iata": "IF301",
+      "icao": "FBA301",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T15:30:00+00:00",
+      "estimated": "2022-10-14T15:30:00+00:00",
+      "actual": "2022-10-14T15:25:00+00:00",
+      "estimated_runway": "2022-10-14T15:25:00+00:00",
+      "actual_runway": "2022-10-14T15:25:00+00:00"
+    },
+    "arrival": {
+      "airport": "Beirut Rafic Hariri Airport",
+      "timezone": "Asia/Beirut",
+      "iata": "BEY",
+      "icao": "OLBA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "1",
+      "delay": null,
+      "scheduled": "2022-10-14T17:05:00+00:00",
+      "estimated": "2022-10-14T17:05:00+00:00",
+      "actual": "2022-10-14T16:42:00+00:00",
+      "estimated_runway": "2022-10-14T16:42:00+00:00",
+      "actual_runway": "2022-10-14T16:42:00+00:00"
+    },
+    "airline": {
+      "name": "Middle East Airlines",
+      "iata": "ME",
+      "icao": "MEA"
+    },
+    "flight": {
+      "number": "323",
+      "iata": "ME323",
+      "icao": "MEA323",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T17:00:00+00:00",
+      "estimated": "2022-10-14T17:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Basrah International Airport ",
+      "timezone": "Asia/Baghdad",
+      "iata": "BSR",
+      "icao": "ORMM",
+      "terminal": "MAIN",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T18:00:00+00:00",
+      "estimated": "2022-10-14T18:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "445",
+      "iata": "IA445",
+      "icao": "IAW445",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T14:00:00+00:00",
+      "estimated": "2022-10-14T14:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Basrah International Airport ",
+      "timezone": "Asia/Baghdad",
+      "iata": "BSR",
+      "icao": "ORMM",
+      "terminal": "MAIN",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T15:00:00+00:00",
+      "estimated": "2022-10-14T15:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "9005",
+      "iata": "IA9005",
+      "icao": "IAW9005",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T07:00:00+00:00",
+      "estimated": "2022-10-14T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Basrah International Airport ",
+      "timezone": "Asia/Baghdad",
+      "iata": "BSR",
+      "icao": "ORMM",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T08:00:00+00:00",
+      "estimated": "2022-10-14T08:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "903",
+      "iata": "IA903",
+      "icao": "IAW903",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T09:00:00+00:00",
+      "estimated": "2022-10-14T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Basrah International Airport ",
+      "timezone": "Asia/Baghdad",
+      "iata": "BSR",
+      "icao": "ORMM",
+      "terminal": "MAIN",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T10:00:00+00:00",
+      "estimated": "2022-10-14T10:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "905",
+      "iata": "IA905",
+      "icao": "IAW905",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 23,
+      "scheduled": "2022-10-14T10:00:00+00:00",
+      "estimated": "2022-10-14T10:00:00+00:00",
+      "actual": "2022-10-14T10:22:00+00:00",
+      "estimated_runway": "2022-10-14T10:22:00+00:00",
+      "actual_runway": "2022-10-14T10:22:00+00:00"
+    },
+    "arrival": {
+      "airport": "Cairo International Airport",
+      "timezone": "Africa/Cairo",
+      "iata": "CAI",
+      "icao": "HECA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T11:30:00+00:00",
+      "estimated": "2022-10-14T11:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "101",
+      "iata": "IA101",
+      "icao": "IAW101",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 6,
+      "scheduled": "2022-10-14T04:20:00+00:00",
+      "estimated": "2022-10-14T04:20:00+00:00",
+      "actual": "2022-10-14T04:26:00+00:00",
+      "estimated_runway": "2022-10-14T04:26:00+00:00",
+      "actual_runway": "2022-10-14T04:26:00+00:00"
+    },
+    "arrival": {
+      "airport": "Cairo International Airport",
+      "timezone": "Africa/Cairo",
+      "iata": "CAI",
+      "icao": "HECA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T05:40:00+00:00",
+      "estimated": "2022-10-14T05:40:00+00:00",
+      "actual": "2022-10-14T05:34:00+00:00",
+      "estimated_runway": "2022-10-14T05:34:00+00:00",
+      "actual_runway": "2022-10-14T05:34:00+00:00"
+    },
+    "airline": {
+      "name": "EgyptAir",
+      "iata": "MS",
+      "icao": "MSR"
+    },
+    "flight": {
+      "number": "628",
+      "iata": "MS628",
+      "icao": "MSR628",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2022-10-14T14:25:00+00:00",
+      "estimated": "2022-10-14T14:25:00+00:00",
+      "actual": "2022-10-14T02:54:00+00:00",
+      "estimated_runway": "2022-10-14T02:54:00+00:00",
+      "actual_runway": "2022-10-14T02:54:00+00:00"
+    },
+    "arrival": {
+      "airport": "Damascus International Airport",
+      "timezone": "Asia/Damascus",
+      "iata": "DAM",
+      "icao": "OSDI",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T15:05:00+00:00",
+      "estimated": "2022-10-14T15:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "901",
+      "iata": "IF901",
+      "icao": "FBA901",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T16:40:00+00:00",
+      "estimated": "2022-10-14T16:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Damascus International Airport",
+      "timezone": "Asia/Damascus",
+      "iata": "DAM",
+      "icao": "OSDI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T17:20:00+00:00",
+      "estimated": "2022-10-14T17:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "903",
+      "iata": "IF903",
+      "icao": "FBA903",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T07:30:00+00:00",
+      "estimated": "2022-10-14T07:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Erbil International (irbil Northwest)",
+      "timezone": "Asia/Baghdad",
+      "iata": "EBL",
+      "icao": "ORER",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T08:30:00+00:00",
+      "estimated": "2022-10-14T08:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "263",
+      "iata": "IA263",
+      "icao": "IAW263",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 31,
+      "scheduled": "2022-10-14T07:30:00+00:00",
+      "estimated": "2022-10-14T07:30:00+00:00",
+      "actual": "2022-10-14T08:01:00+00:00",
+      "estimated_runway": "2022-10-14T08:01:00+00:00",
+      "actual_runway": "2022-10-14T08:01:00+00:00"
+    },
+    "arrival": {
+      "airport": "Erbil International (irbil Northwest)",
+      "timezone": "Asia/Baghdad",
+      "iata": "EBL",
+      "icao": "ORER",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "delay": 7,
+      "scheduled": "2022-10-14T08:30:00+00:00",
+      "estimated": "2022-10-14T08:30:00+00:00",
+      "actual": "2022-10-14T08:36:00+00:00",
+      "estimated_runway": "2022-10-14T08:36:00+00:00",
+      "actual_runway": "2022-10-14T08:36:00+00:00"
+    },
+    "airline": {
+      "name": "Air Explore",
+      "iata": "ED",
+      "icao": "AXE"
+    },
+    "flight": {
+      "number": "263",
+      "iata": "ED263",
+      "icao": "AXE263",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 10,
+      "scheduled": "2022-10-14T17:45:00+00:00",
+      "estimated": "2022-10-14T17:45:00+00:00",
+      "actual": "2022-10-14T17:54:00+00:00",
+      "estimated_runway": "2022-10-14T17:54:00+00:00",
+      "actual_runway": "2022-10-14T17:54:00+00:00"
+    },
+    "arrival": {
+      "airport": "Dubai",
+      "timezone": "Asia/Dubai",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T21:10:00+00:00",
+      "estimated": "2022-10-14T21:10:00+00:00",
+      "actual": "2022-10-14T20:53:00+00:00",
+      "estimated_runway": "2022-10-14T20:53:00+00:00",
+      "actual_runway": "2022-10-14T20:53:00+00:00"
+    },
+    "airline": {
+      "name": "Fly Baghdad",
+      "iata": "IF",
+      "icao": "FBA"
+    },
+    "flight": {
+      "number": "401",
+      "iata": "IF401",
+      "icao": "FBA401",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 6,
+      "scheduled": "2022-10-14T04:15:00+00:00",
+      "estimated": "2022-10-14T04:15:00+00:00",
+      "actual": "2022-10-14T04:20:00+00:00",
+      "estimated_runway": "2022-10-14T04:20:00+00:00",
+      "actual_runway": "2022-10-14T04:20:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "3",
+      "gate": null,
+      "baggage": "3",
+      "delay": null,
+      "scheduled": "2022-10-14T06:25:00+00:00",
+      "estimated": "2022-10-14T06:25:00+00:00",
+      "actual": "2022-10-14T06:09:00+00:00",
+      "estimated_runway": "2022-10-14T06:09:00+00:00",
+      "actual_runway": "2022-10-14T06:09:00+00:00"
+    },
+    "airline": {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "flight": {
+      "number": "4483",
+      "iata": "BA4483",
+      "icao": "BAW4483",
+      "codeshared": {
+        "airline_name": "qatar airways",
+        "airline_iata": "qr",
+        "airline_icao": "qtr",
+        "flight_number": "459",
+        "flight_iata": "qr459",
+        "flight_icao": "qtr459"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T09:35:00+00:00",
+      "estimated": "2022-10-14T09:35:00+00:00",
+      "actual": "2022-10-14T09:21:00+00:00",
+      "estimated_runway": "2022-10-14T09:21:00+00:00",
+      "actual_runway": "2022-10-14T09:21:00+00:00"
+    },
+    "arrival": {
+      "airport": "Dubai",
+      "timezone": "Asia/Dubai",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "6",
+      "delay": null,
+      "scheduled": "2022-10-14T12:45:00+00:00",
+      "estimated": "2022-10-14T12:45:00+00:00",
+      "actual": "2022-10-14T12:16:00+00:00",
+      "estimated_runway": "2022-10-14T12:16:00+00:00",
+      "actual_runway": "2022-10-14T12:16:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "123",
+      "iata": "IA123",
+      "icao": "IAW123",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 5,
+      "scheduled": "2022-10-14T18:55:00+00:00",
+      "estimated": "2022-10-14T18:55:00+00:00",
+      "actual": "2022-10-14T19:00:00+00:00",
+      "estimated_runway": "2022-10-14T19:00:00+00:00",
+      "actual_runway": "2022-10-14T19:00:00+00:00"
+    },
+    "arrival": {
+      "airport": "Dubai",
+      "timezone": "Asia/Dubai",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "1",
+      "delay": null,
+      "scheduled": "2022-10-14T22:25:00+00:00",
+      "estimated": "2022-10-14T22:25:00+00:00",
+      "actual": "2022-10-14T22:00:00+00:00",
+      "estimated_runway": "2022-10-14T22:00:00+00:00",
+      "actual_runway": "2022-10-14T22:00:00+00:00"
+    },
+    "airline": {
+      "name": "flydubai",
+      "iata": "FZ",
+      "icao": "FDB"
+    },
+    "flight": {
+      "number": "212",
+      "iata": "FZ212",
+      "icao": "FDB212",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 5,
+      "scheduled": "2022-10-14T18:55:00+00:00",
+      "estimated": "2022-10-14T18:55:00+00:00",
+      "actual": "2022-10-14T19:00:00+00:00",
+      "estimated_runway": "2022-10-14T19:00:00+00:00",
+      "actual_runway": "2022-10-14T19:00:00+00:00"
+    },
+    "arrival": {
+      "airport": "Dubai",
+      "timezone": "Asia/Dubai",
+      "iata": "DXB",
+      "icao": "OMDB",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "1",
+      "delay": null,
+      "scheduled": "2022-10-14T22:25:00+00:00",
+      "estimated": "2022-10-14T22:25:00+00:00",
+      "actual": "2022-10-14T22:00:00+00:00",
+      "estimated_runway": "2022-10-14T22:00:00+00:00",
+      "actual_runway": "2022-10-14T22:00:00+00:00"
+    },
+    "airline": {
+      "name": "Emirates",
+      "iata": "EK",
+      "icao": "UAE"
+    },
+    "flight": {
+      "number": "2073",
+      "iata": "EK2073",
+      "icao": "UAE2073",
+      "codeshared": {
+        "airline_name": "flydubai",
+        "airline_iata": "fz",
+        "airline_icao": "fdb",
+        "flight_number": "212",
+        "flight_iata": "fz212",
+        "flight_icao": "fdb212"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 6,
+      "scheduled": "2022-10-14T04:15:00+00:00",
+      "estimated": "2022-10-14T04:15:00+00:00",
+      "actual": "2022-10-14T04:20:00+00:00",
+      "estimated_runway": "2022-10-14T04:20:00+00:00",
+      "actual_runway": "2022-10-14T04:20:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "3",
+      "gate": null,
+      "baggage": "3",
+      "delay": null,
+      "scheduled": "2022-10-14T06:25:00+00:00",
+      "estimated": "2022-10-14T06:25:00+00:00",
+      "actual": "2022-10-14T06:09:00+00:00",
+      "estimated_runway": "2022-10-14T06:09:00+00:00",
+      "actual_runway": "2022-10-14T06:09:00+00:00"
+    },
+    "airline": {
+      "name": "LATAM Airlines",
+      "iata": "LA",
+      "icao": "LAN"
+    },
+    "flight": {
+      "number": "5318",
+      "iata": "LA5318",
+      "icao": "LAN5318",
+      "codeshared": {
+        "airline_name": "qatar airways",
+        "airline_iata": "qr",
+        "airline_icao": "qtr",
+        "flight_number": "459",
+        "flight_iata": "qr459",
+        "flight_icao": "qtr459"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 6,
+      "scheduled": "2022-10-14T04:15:00+00:00",
+      "estimated": "2022-10-14T04:15:00+00:00",
+      "actual": "2022-10-14T04:20:00+00:00",
+      "estimated_runway": "2022-10-14T04:20:00+00:00",
+      "actual_runway": "2022-10-14T04:20:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "3",
+      "gate": null,
+      "baggage": "3",
+      "delay": null,
+      "scheduled": "2022-10-14T06:25:00+00:00",
+      "estimated": "2022-10-14T06:25:00+00:00",
+      "actual": "2022-10-14T06:09:00+00:00",
+      "estimated_runway": "2022-10-14T06:09:00+00:00",
+      "actual_runway": "2022-10-14T06:09:00+00:00"
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "459",
+      "iata": "QR459",
+      "icao": "QTR459",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-14",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-14T22:00:00+00:00",
+      "estimated": "2022-10-14T22:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "I",
+      "gate": null,
+      "baggage": "6",
+      "delay": null,
+      "scheduled": "2022-10-15T00:10:00+00:00",
+      "estimated": "2022-10-15T00:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "443",
+      "iata": "QR443",
+      "icao": "QTR443",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 8,
+      "scheduled": "2022-10-13T22:00:00+00:00",
+      "estimated": "2022-10-13T22:00:00+00:00",
+      "actual": "2022-10-13T22:07:00+00:00",
+      "estimated_runway": "2022-10-13T22:07:00+00:00",
+      "actual_runway": "2022-10-13T22:07:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "4",
+      "gate": null,
+      "baggage": "6",
+      "delay": null,
+      "scheduled": "2022-10-14T00:10:00+00:00",
+      "estimated": "2022-10-14T00:10:00+00:00",
+      "actual": "2022-10-13T23:48:00+00:00",
+      "estimated_runway": "2022-10-13T23:48:00+00:00",
+      "actual_runway": "2022-10-13T23:48:00+00:00"
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "443",
+      "iata": "QR443",
+      "icao": "QTR443",
+      "codeshared": null
+    },
+    "aircraft": {
+      "registration": "A7-LAF",
+      "iata": "A320",
+      "icao": "A320",
+      "icao24": "06A1E0"
+    },
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-13T23:00:00+00:00",
+      "estimated": "2022-10-13T23:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": "2A",
+      "gate": "C",
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T02:00:00+00:00",
+      "estimated": "2022-10-14T02:00:00+00:00",
+      "actual": "2022-10-14T01:56:00+00:00",
+      "estimated_runway": "2022-10-14T01:56:00+00:00",
+      "actual_runway": "2022-10-14T01:56:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "213",
+      "iata": "IA213",
+      "icao": "IAW213",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "active",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-13T23:30:00+00:00",
+      "estimated": "2022-10-13T23:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohammad Bin Abdulaziz",
+      "timezone": "Asia/Riyadh",
+      "iata": "MED",
+      "icao": "OEMA",
+      "terminal": "5",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T01:30:00+00:00",
+      "estimated": "2022-10-14T01:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "601",
+      "iata": "IA601",
+      "icao": "IAW601",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 8,
+      "scheduled": "2022-10-13T22:00:00+00:00",
+      "estimated": "2022-10-13T22:00:00+00:00",
+      "actual": "2022-10-13T22:07:00+00:00",
+      "estimated_runway": "2022-10-13T22:07:00+00:00",
+      "actual_runway": "2022-10-13T22:07:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "4",
+      "gate": null,
+      "baggage": "6",
+      "delay": null,
+      "scheduled": "2022-10-14T00:10:00+00:00",
+      "estimated": "2022-10-14T00:10:00+00:00",
+      "actual": "2022-10-13T23:48:00+00:00",
+      "estimated_runway": "2022-10-13T23:48:00+00:00",
+      "actual_runway": "2022-10-13T23:48:00+00:00"
+    },
+    "airline": {
+      "name": "LATAM Airlines",
+      "iata": "LA",
+      "icao": "LAN"
+    },
+    "flight": {
+      "number": "5299",
+      "iata": "LA5299",
+      "icao": "LAN5299",
+      "codeshared": {
+        "airline_name": "qatar airways",
+        "airline_iata": "qr",
+        "airline_icao": "qtr",
+        "flight_number": "443",
+        "flight_iata": "qr443",
+        "flight_icao": "qtr443"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 8,
+      "scheduled": "2022-10-13T22:00:00+00:00",
+      "estimated": "2022-10-13T22:00:00+00:00",
+      "actual": "2022-10-13T22:07:00+00:00",
+      "estimated_runway": "2022-10-13T22:07:00+00:00",
+      "actual_runway": "2022-10-13T22:07:00+00:00"
+    },
+    "arrival": {
+      "airport": "Doha International",
+      "timezone": "Asia/Qatar",
+      "iata": "DOH",
+      "icao": "OTHH",
+      "terminal": "4",
+      "gate": null,
+      "baggage": "6",
+      "delay": null,
+      "scheduled": "2022-10-14T00:10:00+00:00",
+      "estimated": "2022-10-14T00:10:00+00:00",
+      "actual": "2022-10-13T23:48:00+00:00",
+      "estimated_runway": "2022-10-13T23:48:00+00:00",
+      "actual_runway": "2022-10-13T23:48:00+00:00"
+    },
+    "airline": {
+      "name": "British Airways",
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "flight": {
+      "number": "6343",
+      "iata": "BA6343",
+      "icao": "BAW6343",
+      "codeshared": {
+        "airline_name": "qatar airways",
+        "airline_iata": "qr",
+        "airline_icao": "qtr",
+        "flight_number": "443",
+        "flight_iata": "qr443",
+        "flight_icao": "qtr443"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 27,
+      "scheduled": "2022-10-13T23:55:00+00:00",
+      "estimated": "2022-10-13T23:55:00+00:00",
+      "actual": "2022-10-14T00:21:00+00:00",
+      "estimated_runway": "2022-10-14T00:21:00+00:00",
+      "actual_runway": "2022-10-14T00:21:00+00:00"
+    },
+    "arrival": {
+      "airport": "Damascus International Airport",
+      "timezone": "Asia/Damascus",
+      "iata": "DAM",
+      "icao": "OSDI",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "delay": 3,
+      "scheduled": "2022-10-14T01:30:00+00:00",
+      "estimated": "2022-10-14T01:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Cham Wings Airlines",
+      "iata": "6Q",
+      "icao": "SAW"
+    },
+    "flight": {
+      "number": "502",
+      "iata": "6Q502",
+      "icao": "SAW502",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "landed",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": 40,
+      "scheduled": "2022-10-13T19:00:00+00:00",
+      "estimated": "2022-10-13T19:00:00+00:00",
+      "actual": "2022-10-13T19:39:00+00:00",
+      "estimated_runway": "2022-10-13T19:39:00+00:00",
+      "actual_runway": "2022-10-13T19:39:00+00:00"
+    },
+    "arrival": {
+      "airport": "Indira Gandhi International",
+      "timezone": "Asia/Kolkata",
+      "iata": "DEL",
+      "icao": "VIDP",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "delay": 6,
+      "scheduled": "2022-10-14T02:30:00+00:00",
+      "estimated": "2022-10-14T02:30:00+00:00",
+      "actual": "2022-10-14T02:36:00+00:00",
+      "estimated_runway": "2022-10-14T02:36:00+00:00",
+      "actual_runway": "2022-10-14T02:36:00+00:00"
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "443",
+      "iata": "IA443",
+      "icao": "IAW443",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2022-10-13",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Baghdad International",
+      "timezone": "Asia/Baghdad",
+      "iata": "BGW",
+      "icao": "ORBI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2022-10-13T23:45:00+00:00",
+      "estimated": "2022-10-13T23:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mohammad Bin Abdulaziz",
+      "timezone": "Asia/Riyadh",
+      "iata": "MED",
+      "icao": "OEMA",
+      "terminal": "5",
+      "gate": null,
+      "baggage": null,
+      "delay": null,
+      "scheduled": "2022-10-14T01:45:00+00:00",
+      "estimated": "2022-10-14T01:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Iraqi Airways",
+      "iata": "IA",
+      "icao": "IAW"
+    },
+    "flight": {
+      "number": "603",
+      "iata": "IA603",
+      "icao": "IAW603",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  }
+]
